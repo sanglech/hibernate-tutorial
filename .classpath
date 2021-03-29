@@ -4,6 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="java.se,jdk.accessibility,jdk.attach,jdk.compiler,jdk.httpserver,jdk.jartool,jdk.jconsole,jdk.jdi,jdk.management,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,jdk.dynalink,jdk.incubator.foreign,jdk.javadoc,jdk.jfr,jdk.jshell,jdk.management.jfr,jdk.net,jdk.nio.mapmode,jdk.unsupported.desktop,jdk.jsobject,jdk.xml.dom,java.smartcardio,jdk.aot,jdk.charsets,jdk.crypto.cryptoki,jdk.crypto.ec,jdk.editpad,jdk.hotspot.agent,jdk.incubator.jpackage,jdk.internal.vm.ci,jdk.internal.vm.compiler,jdk.internal.vm.compiler.management,jdk.jcmd,jdk.jdeps,jdk.jlink,jdk.jstatd,jdk.localedata,jdk.naming.dns,jdk.naming.rmi,jdk.zipfs"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/antlr-2.7.7.jar"/>
